@@ -111,4 +111,4 @@ To deploy the model:
 ## Author
 
 **Barike Venkata Sai**  
-For queries or feedback, contact at [your email/phone number].
+7386019701
