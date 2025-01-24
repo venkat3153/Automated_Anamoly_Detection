@@ -108,7 +108,3 @@ To deploy the model:
 
 ---
 
-## Author
-
-**Barike Venkata Sai**  
-7386019701
